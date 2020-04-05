@@ -1,27 +1,21 @@
 # Ideas para el storyboard del vídeo de presentación
 
-A continuación van las ideas de cómo visualizo el vídeo. 
-Entiendo que este sería un resultado ideal y que no tenemos mucho tiempo para hacer algo tan elaborado en un día, a no ser aparezca un conjunto decente de voluntarios.
-
-* * *
-
-El confinamiento es nuestra mejor herramienta contra el avance descontrolado del virus.
+En este momento, el confinamiento es la herramienta más eficaz contra el avance descontrolado del coronavirus.
 ```
 Aspecto general tiza sobre pizarra. Blanco sobre verde oscuro. En el centro de la pantalla el logo de Entreg@ y debajo "Entreg@". Después un montón de personas genéricas y un virus esquemático que se va extendiendo por ellos. Salen corriendo y cada uno se mete en su casa. Dibujos muy simplificados.
 
 Mientras la narradora dice lo siguiente, un muñeco sale de su casa para ir a comprar, amenazado por coronavirus que flotan a su alrededor en el ambiente.
 ```
 
-Pero la necesidad de acudir al supermercado nos obliga a romperlo.
-Muchos ciudadanos se ven obligados a salir de su hogar para comprar productos básicos, especialmente alimentos y de higiene y limpieza.
+Pero muchos ciudadanos se ven obligados a salir de su hogar para comprar productos básicos, especialmente alimentos y de higiene y limpieza.
 
 ```
 Un muñeco en casa con su ordenador no consigue comprar. Aparece, por ejemplo, una x en la pantalla y sale de su casa y se marcha a comprar. Mientras, la narradora dice:
 ```
 
 Las tiendas online y la entrega a domicilio contribuyen al distanciamiento social,
-pero la mayoría de consumidores encuentra muchas dificultades para llenar así la cesta de la compra, 
-porque los comercios no han dimensionado sus plataformas para atender la mayoría de las peticiones por internet, aplicando sus medidas a la tienda física.
+pero la mayoría de consumidores encuentra muchas dificultades para llenar así su cesta de la compra, 
+porque la alternativa online de muchos comercios no se diseñó para servir por internet una fracción tan grande de las compras.
 
 ```
 Un rectángulo representa un almacén y un muñeco corre de un lado para otro cogiendo productos. Los productos son figuras geométricas de diferentes colores.
@@ -39,7 +33,7 @@ Aparece una cesta con pan, por ejemplo, y otra con caramelos.
 El muñeco corre de un lado a otro del almacén llenando cestas. Cuando llena una cesta otra ocupa su lugar.
 ```
 
-1.  Segundo, las tiendas no tienen capacidad para preparar rápidamente tantos pedidos a domicilio,
+2.  Segundo, las tiendas no tienen capacidad para preparar rápidamente tantos pedidos a domicilio,
 ya que tienen que agrupar los artículos de cada cliente en el almacén o la tienda, y eso lleva tiempo.
 
 ```
@@ -71,6 +65,7 @@ Ahora el camión deja una cesta de las que acabamos de ver llenas de productos b
 ```
 
 Además, animamos a diseñar un reparto basado en zonas, en lugar de comprometerse con franjas horarias.
+
 Haciendo más flexible la hora de entrega para el comercio, podemos reducir los días de espera.
 
 ```
@@ -82,7 +77,8 @@ de modo que las tiendas puedan recomendar productos para los que garantizan la e
 basados en la conveniencia del comercio y la localización del consumidor.
 
 ```
+Snapshot de la web de Entreg@.
 Un muñeco le da al ratón, aparece un tick en la pantalla y fuera de la casa está justamente llegando un camión que le deja una caja en la puerta.
 
-Fin con el logo de Entreg@.
+Fin con el logo de Entreg@. Rodeado de fotos del equipo con nombres.
 ```
